@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=In%20Jae&fontSize=50&animation=fadeOut&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ryou%20InJae&fontSize=50&animation=fadeOut&fontAlignY=30)
  
 ## Stats 
 <div align=center>
