@@ -3,8 +3,8 @@
 ## Stats 
 <div align=center>
 
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark)](https://github.com/sts07142/)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&theme=chartreuse-dark&layout=compact&hide=HTML)](https://github.com/sts07142/)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&theme=chartreuse-dark&layout=compact&hide=HTML)
   
 </div>
