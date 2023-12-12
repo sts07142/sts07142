@@ -1,6 +1,8 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Ryou%20InJae&fontSize=50&animation=fadeOut&fontAlignY=30&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Ryou%20InJae&fontSize=50&animation=fadeOut&fontAlignY=30&)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsts07142&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </div>
 
 ## Activity
@@ -28,7 +30,7 @@
 
 > <b>팀 프로젝트</b>
 
-<li>ㅁ<sup><a href="">↗</a></sup> <sub>(2023.00 ~ 2023.00)</sub></li>
+<!-- <li>ㅁ<sup><a href="">↗</a></sup> <sub>(2023.00 ~ 2023.00)</sub></li> -->
 
 </details>
 <br>
