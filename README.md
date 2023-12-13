@@ -30,6 +30,12 @@
 <ul>
   <li>다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project/wiki/GurdianWatch">↗</a></sup> / GuardianWatch </li>
 </ul>
+
+<li>SW중심대학 공동 AI 경진대회 2023 <sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub></li>
+<ul>
+  <li>위성 이미지의 건물 영역 분할(Image Segmentation)을 수행하는 AI모델을 개발<sup><a href="">↗</a></sup>57위/227팀 / AL* </li>
+</ul>
+
 <li>스마일게이트 온라인 게임잼<sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">↗</a></sup> / 개발 분야 <sub>(2022.02 ~ 2022.02)</sub></li>
 <ul>
   <li>봄을 기다리곰<sup><a href="https://store.onstove.com/ko/games/829?_gl=1%2au3wiog%2a_ga%2aMTA4ODE4OTQ5LjE3MDIzNzI0NTY.%2a_ga_H211STCMYT%2aMTcwMjM3MjU3MC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.%2a_ga_GELB69ZD7J%2aMTcwMjM3MjU3NC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.">↗</a></sup> / 베어그릴스 </li>
