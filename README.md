@@ -28,7 +28,7 @@
 
 <li>K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
 <ul>
-  <li>다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project/wiki/GuardianWatch">↗</a></sup> / GuardianWatch </li>
+  <li>다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup> / GuardianWatch </li>
 </ul>
 
 <li>SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub></li>
