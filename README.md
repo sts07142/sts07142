@@ -15,7 +15,7 @@
 
 ## Activity
 <li>INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub></li>
-<li>K-디지털 챌린지: NET 챌린지 캠프 시즌10 <sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
+<li>K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
 
 <br>
 
@@ -26,14 +26,14 @@
 
 > <b>공모전</b>
 
-<li>K-디지털 챌린지: NET 챌린지 캠프 시즌10 <sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
+<li>K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
 <ul>
   <li>다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project/wiki/GurdianWatch">↗</a></sup> / GuardianWatch </li>
 </ul>
 
-<li>SW중심대학 공동 AI 경진대회 2023 <sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub></li>
+<li>SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub></li>
 <ul>
-  <li>위성 이미지의 건물 영역 분할(Image Segmentation)을 수행하는 AI모델을 개발<sup><a href="">↗</a></sup>57위/227팀 / AL* </li>
+  <li>위성 이미지의 건물 영역 분할(Image Segmentation) 수행 AI모델<sup><a href="">↗</a></sup>57위/227팀 / AL* </li>
 </ul>
 
 <li>스마일게이트 온라인 게임잼<sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">↗</a></sup> / 개발 분야 <sub>(2022.02 ~ 2022.02)</sub></li>
