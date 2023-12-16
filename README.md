@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Ryou%20InJae&fontSize=50&animation=fadeOut&fontAlignY=30&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Ryou%20InJae&fontSize=50&animation=scaleIn&fontAlignY=70&fontAlign=50&stroke=5550FF&strokeWidth=2&reversal=true)
 
 <div align=left><br>
  
@@ -52,8 +52,10 @@
 ## Stats 
 <div align=center>
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&layout=donut&theme=chartreuse-dark)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true)
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&layout=compact&theme=chartreuse-dark&exclude_repo=sts07142.github.io"/>
+
+
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white")
