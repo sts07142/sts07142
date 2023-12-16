@@ -50,9 +50,12 @@
 <br>
 
 ## Stats 
-
+<a href="https://github.com/sts07142">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&layout=compact&theme=chartreuse-dark&exclude_repo=sts07142.github.io"/>
+</a>
+<a href="https://github.com/sts07142">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&layout=compact&theme=chartreuse-dark&exclude_repo=sts07142.github.io&card_width=320"/>
+</a>
 
 ## Stack
 <div align=center>
