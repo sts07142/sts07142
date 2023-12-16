@@ -52,10 +52,16 @@
 ## Stats 
 
 <a href="https://github.com/sts07142">
+  <img height=200 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true" />
+</a>
+<a href="https://github.com/sts07142">
+  <img height=200 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=8&theme=chartreuse-dark&count_private=true" />
+  
+<!-- <a href="https://github.com/sts07142">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true" />
 </a>
 <a href="https://github.com/sts07142">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=8&theme=chartreuse-dark" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=8&theme=chartreuse-dark" /> -->
 </a>
 
 ## Stack
