@@ -50,12 +50,12 @@
 <br>
 
 ## Stats 
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&layout=compact&theme=chartreuse-dark&exclude_repo=sts07142.github.io"/>
+
+## Stack
 <div align=center>
-
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true)
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sts07142&layout=compact&theme=chartreuse-dark&exclude_repo=sts07142.github.io"/>
-
-
 
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white")
@@ -73,4 +73,5 @@
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
