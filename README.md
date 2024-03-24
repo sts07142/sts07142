@@ -30,9 +30,6 @@
 - DACON 소득 예측 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236230/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
   > 개인 특성 데이터를 활용하여 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup>00위/000명
 
-- DACON 소득 예측 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236230/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
-  > 개인 특성 데이터를 활용하여 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup>00위/000명
-
 - DACON 코드 유사성 판단 시즌2 AI 경진대회<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236228/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
   > C++ 코드간의 유사성을 판단<sup><a href="https://github.com/sts07142/DACON-Code-similarity-determination">↗</a></sup>00위/000
 
