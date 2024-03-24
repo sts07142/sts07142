@@ -42,8 +42,8 @@
 - DACON 고객 대출등급 분류 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236214/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.01 ~ 2023.02)</sub>
   > 고객 대출등급 예측<sup><a href="https://github.com/sts07142/DACON-Customer-Loan-Rating-Classification">↗</a></sup>107위/784명
 
-- K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub>
-  > 다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup> / 팀 GuardianWatch 
+- K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup> / 팀장<sub>(2023.07 ~ 2023.12)</sub>
+  > 다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup>은상 / 팀 GuardianWatch 
 
 - SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub>
   > 위성 이미지의 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup>57위/227팀 / 팀 AL* 
