@@ -51,7 +51,7 @@
 - SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub>
   > 위성 이미지의 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup>57위/227팀 / 팀 AL* 
 
-- 스마일게이트 온라인 게임잼<sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">↗</a></sup> / 개발 분야 <sub>(2022.02 ~ 2022.02)</sub>
+- 스마일게이트 온라인 게임잼<sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">↗</a></sup> / 개발 팀원 <sub>(2022.02 ~ 2022.02)</sub>
   > 불면증에 걸려 겨울잠을 자지 못한 곰의 생존 이야기 / Title : 봄을 기다리곰<sup><a href="https://store.onstove.com/ko/games/829?_gl=1%2au3wiog%2a_ga%2aMTA4ODE4OTQ5LjE3MDIzNzI0NTY.%2a_ga_H211STCMYT%2aMTcwMjM3MjU3MC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.%2a_ga_GELB69ZD7J%2aMTcwMjM3MjU3NC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.">↗</a></sup> / 팀 베어그릴스 
 <br />
 
