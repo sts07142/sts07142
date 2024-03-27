@@ -14,11 +14,11 @@
 </div>
 
 ## Activity
-- INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub>
-  > 지능정보통신연구실
-
 - BDA <sup><a href="https://cafe.naver.com/officialbac">↗</a></sup> / 8기 데이터분석 전처리 적용반 학회원<sub>(2024.03 ~ )</sub>
   > 빅데이터학회 Big Data Analysis
+  > 
+- INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub>
+  > 지능정보통신연구실
 
 - K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
   > 네트워크 응용분야 아이디어 공모전 / 과학기술정보통신부 주최
