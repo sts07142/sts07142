@@ -10,6 +10,9 @@
 <a href="https://sts07142.github.io">
         <img src="https://img.shields.io/badge/GitBlog-000000?style=for-the-badge&logo=Github&logoColor=white"> 
 </a>
+<a href="https://sts07142.github.io/posts/Portfolio/">
+        <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"> 
+</a>
 
 </div>
 
