@@ -43,43 +43,7 @@
 DACON 소득 예측 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236230/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
 </b></summary>
 
-> 개인 특성 데이터 활용 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup>00위/000명
-</details>
-<br>
-<!--  -->
-<details>
-<summary>&nbsp;<b>
-DACON 소득 예측 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236230/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
-</b></summary>
-  
-> 개인 특성 데이터 활용 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup>00위/000명
-</details>
-<br>
-<!--  -->
-<details>
-<summary>&nbsp;<b>
-DACON 코드 유사성 판단 시즌2 AI 경진대회<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236228/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.03 ~ 2023.04)</sub>
-</b></summary>
-  
-> C++ 코드간의 유사성 판단<sup><a href="https://github.com/sts07142/DACON-Code-similarity-determination">↗</a></sup>00위/000
-</details>
-<br>
-<!--  -->
-<details>
-<summary>&nbsp;<b>
-DACON 웹 로그 기반 조회수 예측 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236226/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.02 ~ 2023.03)</sub>
-</b></summary>
-  
-> 웹 로그 데이터 기반 조회수 예측 <sup><a href="https://github.com/sts07142/DACON-Weblog-based-view-prediction">↗</a></sup>167위/361명
-</details>
-<br>
-<!--  -->
-<details>
-<summary>&nbsp;<b>
-DACON 반도체 소자 이상 탐지 AI 경진대회<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236224/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.02 ~ 2023.03)</sub>
-</b></summary>
-
-> 반도체 소자 이미지 기반 이상 탐지<sup><a href="https://github.com/sts07142/DACON-Semiconductor-Device-Abnormal-Detection">↗</a></sup>54위/385팀
+> 개인 특성 데이터 활용 개인 소득 수준 예측<sup><a href="https://github.com/sts07142/DACON-Income-prediction">↗</a></sup> / 상위 13%
 </details>
 <br>
 <!--  -->
@@ -88,7 +52,7 @@ DACON 반도체 소자 이상 탐지 AI 경진대회<sub>2024</sub><sup><a href=
 DACON 고객 대출등급 분류 AI 해커톤<sub>2024</sub><sup><a href="https://dacon.io/competitions/official/236214/overview/description">↗</a></sup><b></b> / 개인<sub>(2024.01 ~ 2023.02)</sub>
 </b></summary>
 
-> 개인 특성 데이터 활용 고객 대출등급 예측<sup><a href="https://github.com/sts07142/DACON-Customer-Loan-Rating-Classification">↗</a></sup>107위/784명
+> 개인 특성 데이터 활용 고객 대출등급 예측<sup><a href="https://github.com/sts07142/DACON-Customer-Loan-Rating-Classification">↗</a></sup> / 상위 13%
 </details>
 <br>
 <!--  -->
@@ -97,7 +61,7 @@ DACON 고객 대출등급 분류 AI 해커톤<sub>2024</sub><sup><a href="https:
 K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup> / 팀장<sub>(2023.07 ~ 2023.12)</sub>
 </b></summary>
 
->  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup>은상 / 팀 GuardianWatch 
+>  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup> / 은상 / 팀 GuardianWatch 
 </details>
 <br>
 <!--  -->
@@ -106,7 +70,7 @@ K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="http
 SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">↗</a></sup><b></b> / 팀장<sub>(2023.07 ~ 2023.07)</sub>
 </b></summary>
 
-> 위성 이미지 기반 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup>57위/227팀 / 팀 AL* 
+> 위성 이미지 기반 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup> / 상위 25% / 팀 AL* 
 </details>
 <br>
 <!--  -->
