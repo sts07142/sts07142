@@ -61,7 +61,7 @@ DACON 고객 대출등급 분류 AI 해커톤<sub>2024</sub><sup><a href="https:
 K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://koren.kr/kor/Alram/contyView.asp?s=17&page=1">↗</a></sup> / 팀장<sub>(2023.07 ~ 2023.12)</sub>
 </b></summary>
 
->  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/senior_project">↗</a></sup> / 은상 / 팀 GuardianWatch 
+>  다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템<sup><a href="https://github.com/sts07142/GuardianWatch">↗</a></sup> / 은상 / 팀 GuardianWatch 
 </details>
 <br>
 <!--  -->
