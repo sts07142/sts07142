@@ -22,12 +22,16 @@
 <!-- Activity 정리 -->
 ## Activity
 
-- BDA <sup><a href="https://cafe.naver.com/officialbac">↗</a></sup> / 8기 데이터분석 전처리 적용반 학회원<sub>(2024.03 ~ )</sub>
+- BDA <sup><a href="https://cafe.naver.com/officialbac">↗</a></sup> / 8기 학회원<sub>(2024.03 ~ )</sub>
   > 빅데이터학회 Big Data Analysis
-  > 
+  > * 데이터 전처리 적용
+  > * NLP 전처리 적용
+  > * EDA & 데이터 분석
+
 - INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub>
   > 지능정보통신연구실
-
+  > * WiFi CSI sensing for Human Activity Recognition
+  > * Distributed HAR WiFi sensing system for energy efficiency
 
 ## Award
 
@@ -71,6 +75,15 @@ SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.
 </b></summary>
 
 > 위성 이미지 기반 건물 영역 분할<sup><a href="https://github.com/sts07142/DACON-Satellite-Image-Building-Area-Segmentation">↗</a></sup> / 상위 25% / 팀 AL* 
+</details>
+<br>
+<!--  -->
+<details>
+<summary>&nbsp;<b>
+국내 자동차 도로 실시간 길 찾기 APP<sub>2022</sub><sup><a href="https://github.com/sts07142/PathFinder">↗</a></sup><b></b> / 팀장<sub>(2022.10 ~ 2022.12)</sub>
+</b></summary>
+
+> 국내 GIS 도로정보와 교통정보 API를 활용한 최적 길 찾기<sup><a href="https://github.com/sts07142/PathFinder">↗</a></sup> / PathFinder
 </details>
 <br>
 <!--  -->
