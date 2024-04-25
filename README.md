@@ -83,7 +83,7 @@ SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.
 국내 자동차 도로 실시간 길 찾기 APP<sub>2022</sub><sup><a href="https://github.com/sts07142/PathFinder">↗</a></sup><b></b> / 팀장<sub>(2022.10 ~ 2022.12)</sub>
 </b></summary>
 
-> 국내 GIS 도로정보와 교통정보 API를 활용한 최적 길 찾기<sup><a href="https://github.com/sts07142/PathFinder">↗</a></sup> / PathFinder
+> 국내 GIS 도로정보와 교통정보 API를 활용한 최적 길 찾기<sup><a href="https://github.com/sts07142/PathFinder">↗</a></sup> / 팀 PathFinder
 </details>
 <br>
 <!--  -->
