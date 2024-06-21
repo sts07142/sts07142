@@ -13,8 +13,8 @@
 <a href="https://sts07142.github.io">
         <img src="https://img.shields.io/badge/GitBlog-000000?style=for-the-badge&logo=Github&logoColor=white"> 
 </a>
-<a href="https://sts07142.github.io/posts/Portfolio/">
-        <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=Github&logoColor=black"> 
+<a href="sts07142.notion.site">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
 
 </div>
@@ -31,7 +31,7 @@
 - INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">↗</a></sup> / Undergraduate RA <sub>(2023.03 ~ )</sub>
   > 지능정보통신연구실
   > * WiFi CSI sensing for Human Activity Recognition
-  > * Distributed HAR WiFi sensing system for energy efficiency
+  > * Distributed Human Activity Recognition System for Scalable Wi-Fi sensing
 
 ## Award
 
