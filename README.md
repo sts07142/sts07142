@@ -20,7 +20,7 @@
 </div>
 
 <!-- Activity 정리 -->
-## Activity
+## 🚀Activity
 
 - BDA <sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ )</sub>
   > 빅데이터학회 Big Data Analysis
@@ -33,7 +33,7 @@
   > * WiFi CSI sensing for Human Activity Recognition
   > * Distributed Human Activity Recognition System for Scalable Wi-Fi sensing
 
-## Award
+## 🏆Award
 
 - K-디지털 챌린지: NET 챌린지 캠프<sub>시즌10</sub><sup><a href="https://github.com/sts07142/GuardianWatch">🔗</a></sup><b>은상</b> / 팀장<sub>(2023.07 ~ 2023.12)</sub></li>
   > 과학기술정보통신부 주최 / 네트워크 응용분야 아이디어 공모전
@@ -41,7 +41,7 @@
 <br>
 
 <!-- Project 정리 -->
-## Project
+## 📂Project
 
 <details open>
 <summary>&nbsp;<b>
@@ -98,8 +98,15 @@ SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.
 <br>
 <!--  -->
 
+<!-- 오픈소스 기여 정리 -->
+## 👋OpenSource Contributions
+
+- langflow-ai/langflow<a href="https://github.com/langflow-ai/langflow/pull/2883"><img alt="PR" src="PR.png" width=15/></a>
+
+- context-labs/autodoc<a href="https://github.com/context-labs/autodoc/pull/46"><img alt="PR" src="PR.png" width=15/></a>
+
 <!-- Stats 정리 -->
-## Stats 
+## ✨️Stats 
 
 <a href="https://github.com/sts07142">
   <img height=200 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true" />
@@ -115,7 +122,7 @@ SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.
 </a>
 
 <!-- Stack 정리 -->
-## Stack
+## 📚Stack
 <div align=center>
 
   ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
