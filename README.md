@@ -105,6 +105,9 @@ SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.
 
 - context-labs/autodoc<a href="https://github.com/context-labs/autodoc/pull/46"><img alt="PR" src="PR.png" width=15/></a>
 
+- OpenBMB/RepoAgent<a href="https://github.com/OpenBMB/RepoAgent/pull/74"><img alt="PR" src="PR.png" width=15/></a>
+
+
 <!-- Stats 정리 -->
 ## ✨️Stats 
 
