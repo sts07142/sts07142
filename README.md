@@ -103,10 +103,13 @@ SW중심대학 공동 AI 경진대회<sub>2023</sub><sup><a href="https://dacon.
 
 - langflow-ai/langflow<a href="https://github.com/langflow-ai/langflow/pull/2883"><img alt="PR" src="PR.png" width=15/></a>
 
+- OpenBMB/ChatDev<a href="https://github.com/OpenBMB/ChatDev/pulls?q=author%3Asts07142"><img alt="PR" src="PR.png" width=15/></a>
+
+- stitionai/devika<a href="https://github.com/stitionai/devika/pull/630"><img alt="PR" src="PR.png" width=15/></a>
+
 - context-labs/autodoc<a href="https://github.com/context-labs/autodoc/pull/46"><img alt="PR" src="PR.png" width=15/></a>
 
 - OpenBMB/RepoAgent<a href="https://github.com/OpenBMB/RepoAgent/pull/74"><img alt="PR" src="PR.png" width=15/></a>
-
 
 <!-- Stats 정리 -->
 ## ✨️Stats 
