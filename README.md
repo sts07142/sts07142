@@ -43,7 +43,7 @@ INC Lab. </b><sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a
 
 <details>
 <summary>&nbsp;<b>
-BDA </b><sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ )</sub>
+BDA </b><sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ 2024.09)</sub>
 </summary>
 
   > **빅데이터학회 Big Data Analysis**
