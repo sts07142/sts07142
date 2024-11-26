@@ -27,7 +27,6 @@
   > * Task 특화 LLM 개발
   > * LLM as Judge Benchmark 구축
   > * Streamlit 기반 Chat-UI 개발
-<br>
 
 <!-- Award 정리 -->
 ## 🏆Award
@@ -36,31 +35,20 @@
   > * **과학기술정보통신부** 주최
   > * 네트워크 응용분야 아이디어 공모전
   > * 다중 객체 추적 기술을 활용한 지능형 어린이집 안전 모니터링 시스템
-<br>
 
 <!-- Activity 정리 -->
 ## 🚀Activity
 
-<details>
-<summary>&nbsp;<b>
-INC Lab. </b><sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a></sup> / Undergraduate RA <sub>(2023.03 ~ 2024.06)</sub>
-</summary>
-
-  > **지능정보통신연구실**
+- INC Lab. </b><sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a></sup> / Undergraduate RA <sub>(2023.03 ~ 2024.06)</sub>
+  > * **지능정보통신연구실**
   > * WiFi CSI sensing for Human Activity Recognition
   > * Distributed Human Activity Recognition System for Scalable Wi-Fi sensing
-</details>
 
-<details>
-<summary>&nbsp;<b>
-BDA </b><sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ 2024.09)</sub>
-</summary>
-
-  > **빅데이터학회 Big Data Analysis**
+- BDA </b><sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ 2024.09)</sub>
+  > * **빅데이터학회 Big Data Analysis**
   > * EDA & 데이터 분석
   > * 확률 통계 분석
   > * NLP 모델 분석
-</details>
 
 <!-- Project 정리 -->
 ## 📂Project
@@ -71,19 +59,13 @@ BDA </b><sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 
 <!-- 실내 네비게이션 -->
 
 <!-- 스마일게이트 온라인 게임잼 -->
-<details open>
-<summary>&nbsp;<b>
-스마일게이트 온라인 게임잼<sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">🔗</a></sup> / 개발 팀원 <sub>(2022.02 ~ 2022.02)</sub>
-</b></summary>
-
+- <b>스마일게이트 온라인 게임잼</b><sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">🔗</a></sup> / 개발 팀원 <sub>(2022.02 ~ 2022.02)</sub>
 > 봄을 기다리곰 : 불면증에 걸려 겨울잠을 자지 못한 곰의 생존 이야기<sup><a href="https://store.onstove.com/ko/games/829?_gl=1%2au3wiog%2a_ga%2aMTA4ODE4OTQ5LjE3MDIzNzI0NTY.%2a_ga_H211STCMYT%2aMTcwMjM3MjU3MC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.%2a_ga_GELB69ZD7J%2aMTcwMjM3MjU3NC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.">🔗</a></sup> / 팀 베어그릴스
-</details>
 <br>
-
 <!-- DACON 프로젝트 Archive -->
 
-**DACON 프로젝트 Archive**<sup><a href="https://github.com/sts07142/DACON-Archive">🔗</a></sup><b></b>
-
+- **DACON 프로젝트 Archive**<sup><a href="https://github.com/sts07142/DACON-Archive">🔗</a></sup><b></b>
+<br>
 <!-- 오픈소스 기여 정리 -->
 ## 👋OpenSource Contributions
 
