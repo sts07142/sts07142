@@ -9,15 +9,25 @@
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsts07142&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </div>
 
-<!-- 깃 블로그, 포트폴리오 -->
+<!-- 깃 블로그  -->
 <a href="https://sts07142.github.io">
         <img src="https://img.shields.io/badge/GitBlog-000000?style=for-the-badge&logo=Github&logoColor=white"> 
 </a>
-<a href="https://sts07142.notion.site/Portfolio-c26b62bb5cea40c4b879ba64a82642b1">
+<!-- 포트폴리오  -->
+<a href="https://www.notion.so/sts07142/_AI-_-c26b62bb5cea40c4b879ba64a82642b1">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
 
 </div>
+
+<!-- Career 정리 -->
+## 💼Career
+
+- **슈어소프트테크**<sub>(주)</sub><sup><a href="https://www.suresofttech.com/">🔗</a></sup> / AI기술팀 인턴<sub>(2024.07 ~ 2024.11)</sub>
+  > * Task 특화 LLM 개발
+  > * LLM as Judge Benchmark 구축
+  > * Streamlit 기반 Chat-UI 개발
+<br>
 
 <!-- Award 정리 -->
 ## 🏆Award
