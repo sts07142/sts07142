@@ -13,7 +13,7 @@
 <a href="https://sts07142.github.io">
         <img src="https://img.shields.io/badge/GitBlog-000000?style=for-the-badge&logo=Github&logoColor=white"> 
 </a>
-<a href="https://sts07142.notion.site/">
+<a href="https://sts07142.notion.site/Portfolio-c26b62bb5cea40c4b879ba64a82642b1">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
 
