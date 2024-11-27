@@ -17,6 +17,10 @@
 <a href="https://www.notion.so/sts07142/_AI-_-c26b62bb5cea40c4b879ba64a82642b1">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
+<!-- 포트폴리오  -->
+<a href="www.linkedin.com/in/sts07142">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</a>
 
 </div>
 
