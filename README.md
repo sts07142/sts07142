@@ -13,10 +13,7 @@
 <a href="https://www.notion.so/sts07142/_AI-_-c26b62bb5cea40c4b879ba64a82642b1">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 </a>
-<!-- 링크드인  -->
-<a href="https://www.linkedin.com/in/sts07142">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"> 
-</a>
+
 
 </div>
 
@@ -39,12 +36,12 @@
 <!-- Activity 정리 -->
 ## 🚀Activity
 
-- INC Lab. </b><sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a></sup> / Undergraduate RA <sub>(2023.03 ~ 2024.06)</sub>
+- **INC Lab.**<sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a></sup> / Undergraduate RA <sub>(2023.03 ~ 2024.06)</sub>
   > * **지능정보통신연구실**
   > * WiFi CSI sensing for Human Activity Recognition
   > * Distributed Human Activity Recognition System for Scalable Wi-Fi sensing
 
-- BDA </b><sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ 2024.09)</sub>
+- **BDA**<sup><a href="https://cafe.naver.com/officialbac">🔗</a></sup> / 8기 학회원<sub>(2024.03 ~ 2024.09)</sub>
   > * **빅데이터학회 Big Data Analysis**
   > * EDA & 데이터 분석
   > * 확률 통계 분석
@@ -52,19 +49,22 @@
 
 <!-- Project 정리 -->
 ## 📂Project
-<!-- WiFi based HAR -->
 
-<!-- 드론 -->
-
+<!-- 하루한알 -->
+- <b>영양제 추천 앱, 하루한알</b><sub>2023</sub> <sup><a href="https://github.com/sts07142/HaruHanal-BackEnd">🔗</a></sup> / 개발 팀원 <sub>(2022.10 ~ 2022.11)</sub>
+  > * 어떤 영양제를 선택할지 어려울 때, 하루한알 / Haru-Hanal<br>
+  > * GPT 기반 사용자 맞춤 영양제 추천 시스템 개발
+<br>
 <!-- 실내 네비게이션 -->
 
 <!-- 스마일게이트 온라인 게임잼 -->
 - <b>스마일게이트 온라인 게임잼</b><sub>2022</sub> <sup><a href="https://page.onstove.com/indieboostlab/global/view/8210526">🔗</a></sup> / 개발 팀원 <sub>(2022.02 ~ 2022.02)</sub>
-> 봄을 기다리곰 : 불면증에 걸려 겨울잠을 자지 못한 곰의 생존 이야기<sup><a href="https://store.onstove.com/ko/games/829?_gl=1%2au3wiog%2a_ga%2aMTA4ODE4OTQ5LjE3MDIzNzI0NTY.%2a_ga_H211STCMYT%2aMTcwMjM3MjU3MC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.%2a_ga_GELB69ZD7J%2aMTcwMjM3MjU3NC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.">🔗</a></sup> / 팀 베어그릴스
+  > * 봄을 기다리곰 : 불면증에 걸려 겨울잠을 자지 못한 곰의 생존 이야기<sup><a href="https://store.onstove.com/ko/games/829?_gl=1%2au3wiog%2a_ga%2aMTA4ODE4OTQ5LjE3MDIzNzI0NTY.%2a_ga_H211STCMYT%2aMTcwMjM3MjU3MC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.%2a_ga_GELB69ZD7J%2aMTcwMjM3MjU3NC4xLjEuMTcwMjM3Mjc3Mi42MC4wLjA.">🔗</a></sup> / 팀 베어그릴스
 <br>
 <!-- DACON 프로젝트 Archive -->
 
 - **DACON 프로젝트 Archive**<sup><a href="https://github.com/sts07142/DACON-Archive">🔗</a></sup><b></b>
+  > * Dacon 주최 ML/DL AI 공모전 참가
 <br>
 
 <!-- 오픈소스 기여 정리 -->
