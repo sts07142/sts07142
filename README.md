@@ -72,7 +72,7 @@
 
 > langflow-ai/langflow<a href="https://github.com/langflow-ai/langflow/pull/2883"><img alt="PR" src="PR.png" width=15/></a>
 
-> OpenBMB/ChatDev<a href="https://github.com/OpenBMB/ChatDev/pulls?q=author%3Asts07142"><img alt="PR" src="PR.png" width=15/></a>
+> OpenBMB/ChatDev<a href="https://github.com/OpenBMB/ChatDev/pull/404"><img alt="PR" src="PR.png" width=15/></a>
 
 > stitionai/devika<a href="https://github.com/stitionai/devika/pull/630"><img alt="PR" src="PR.png" width=15/></a>
 
