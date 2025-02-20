@@ -84,10 +84,10 @@
 ## ✨️Stats 
 
 <a href="https://github.com/sts07142">
-  <img height=200 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true" />
+  <img height=175 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/sts07142">
-  <img height=200 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=4&theme=chartreuse-dark&count_private=true" />
+  <img height=175 align="center" src="https://github-readme-stats-deploy-update.vercel.app/api/top-langs?username=sts07142&layout=compact&langs_count=4&theme=chartreuse-dark&count_private=true" />
   
 <!-- <a href="https://github.com/sts07142">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=sts07142&count_private=true&theme=chartreuse-dark&show_icons=true" />
