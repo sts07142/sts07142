@@ -3,12 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Ryou%20InJae&fontSize=50&animation=scaleIn&fontAlignY=70&fontAlign=50&stroke=5550FF&strokeWidth=2&reversal=true)
 
-<!-- hit 조회수 -->
-<div align=left><br>
- 
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsts07142&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-</div>
-
 <!-- 포트폴리오  -->
 <a href="https://www.notion.so/sts07142/_AI-_-c26b62bb5cea40c4b879ba64a82642b1">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"> 
@@ -79,6 +73,10 @@
 > context-labs/autodoc<a href="https://github.com/context-labs/autodoc/pull/46"><img alt="PR" src="PR.png" width=15/></a>
 
 > OpenBMB/RepoAgent<a href="https://github.com/OpenBMB/RepoAgent/pull/74"><img alt="PR" src="PR.png" width=15/></a>
+
+> pqrs-org/KE-complex_modifications<a href="https://github.com/pqrs-org/KE-complex_modifications/pull/1809"><img alt="PR" src="PR.png" width=15/></a>
+
+> hiyouga/LLaMA-Factory<a href="https://github.com/hiyouga/LLaMA-Factory/pull/8505"><img alt="PR" src="PR.png" width=15/></a>
 
 <!-- Stats 정리 -->
 ## ✨️Stats 
