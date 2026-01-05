@@ -78,6 +78,8 @@
 
 > hiyouga/LLaMA-Factory<a href="https://github.com/hiyouga/LLaMA-Factory/pull/8505"><img alt="PR" src="PR.png" width=15/></a>
 
+> vllm-project/vllm<a href="https://github.com/vllm-project/vllm/pull/29137"><img alt="PR" src="PR.png" width=15/></a>
+
 <!-- Stats 정리 -->
 ## ✨️Stats 
 
