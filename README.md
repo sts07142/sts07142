@@ -1,18 +1,9 @@
-<!-- Header -->
-<div align="center">
-
-<a href="https://www.notion.so/sts07142/_AI-_-c26b62bb5cea40c4b879ba64a82642b1">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
-
 ## 🛠️ Maintaining
 
 | Project | Domain | Version |
 | -- | -- | -- |
 | [resumable-upload](https://github.com/injaeryou/resumable-upload) | Zero-dependency Python implementation of the <a href="https://tus.io/">TUS</a> resumable upload protocol (v1.0.0) — server & client. | [![PyPI Version](https://img.shields.io/pypi/v/resumable-upload.svg)](https://pypi.org/project/resumable-upload/)
+| [Nested-star-lists-for-GitHub](https://github.com/injaeryou/Nested-star-lists-for-GitHub) | Browser extension that adds nested star lists to GitHub. | [![Chrome Extensions](https://img.shields.io/chrome-web-store/v/knkohgnfichgohgpnfjcehmphemiopao.svg?label=Chrome%20Extensions)](https://chromewebstore.google.com/detail/nested-star-lists-for-git/knkohgnfichgohgpnfjcehmphemiopao) [![Firefox Add-ons](https://img.shields.io/amo/v/nested-star-lists-for-github.svg?label=Firefox%20Add-ons)](https://addons.mozilla.org/firefox/addon/nested-star-lists-for-github/)
 
 ## 🌱 Open Source Contributions
 
