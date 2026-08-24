@@ -14,6 +14,7 @@
 
 | Project                                                                                     | Domain                                         |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [`torvalds/linux`](https://github.com/torvalds/linux)                                       | Monolithic kernel for Unix-like OS             |
 | [`vllm-project/vllm`](https://github.com/vllm-project/vllm)                                 | High-throughput LLM inference engine           |
 | [`vllm-project/vllm-metal`](https://github.com/vllm-project/vllm-metal)                     | Hardware plugin for vLLM on Apple Silicon      |
 | [`vllm-project/vllm-gguf-plugin`](https://github.com/vllm-project/vllm-gguf-plugin)         | Quantization plugin for vLLM with GGUF support |
